@@ -4,16 +4,41 @@ Photo by <a href="https://unsplash.com/@clarissemeyer?utm_source=unsplash&utm_me
 
 
 ### Hi there 👋
+Light 💡 up the Darkness! 
+
+
+Thanks for stopping by and checking out my Git Hub profile.
+
+My name is Greg Petropoulos and I am user focused Full Stack 🥞 Developer. 
+
+Originally a geologist ⚒ and I love to dig in and discover 🔬 how things work and find the small ah-ha moments rewarding 🎉.
+
+Have a great day!
+
 
 
 ⚙ Technolgies and Tools
-
+ - Javascript
+ -  jQuery
+ -  Node.js
+ -  Express.js
+ -  React
+ -  HTML5
+ -  CSS3
+ -  Bootstrap
+ -  MySQL
+ -  MongoDB
+ -  Git
+ -  AJAX
+ -  JSON
+ -  API 
+ 
+ 
 📈 Github Stats
-
-✍ Blogs
-
 ![Gregs GitHub stats](https://github-readme-stats.vercel.app/api?username=gregpetropoulos&hide=stars&show_icons=true&theme=radical)
 
+
+✍ Blogs
 
 
 - 📫 How to reach me: <gregpetropoulos@yahoo.com>
