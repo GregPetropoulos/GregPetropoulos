@@ -11,7 +11,7 @@ My name is Greg Petropoulos and I am user focused Full Stack 🥞 Developer.
 
 Originally a geologist ⚒ and I love to dig in and discover 🔬 how things work and find the small ah-ha moments rewarding 🎉.
 
-Have a great day!
+
 
 
 
@@ -42,6 +42,8 @@ Have a great day!
 
 
 - 📫 How to reach me: <gregpetropoulos@yahoo.com>
+
+Have a great day!
 
 <!--
 **GregPetropoulos/GregPetropoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
