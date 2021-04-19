@@ -2,9 +2,7 @@
 Photo by <a href="https://unsplash.com/@clarissemeyer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clarisse Meyer</a> on <a href="https://unsplash.com/s/photos/background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-
-### Hi there 👋
-Light 💡 up the Darkness! 
+### Light 💡 up the Darkness! 
 
 
 Thanks for stopping by and checking out my Git Hub profile.
