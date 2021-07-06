@@ -7,7 +7,7 @@ Photo by <a href="https://unsplash.com/@clarissemeyer?utm_source=unsplash&utm_me
 
 Thanks for stopping by and checking out my Git Hub profile.
 
-My name is Greg Petropoulos and I am user focused Full Stack 🥞 Developer. 
+My name is Greg Petropoulos and I am user focused MERN Full Stack 🥞 Developer. 
 
 Originally a geologist ⚒ and I love to dig in and discover 🔬 how things work and find the small ah-ha moments rewarding 🎉.
 
