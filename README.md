@@ -18,17 +18,17 @@ Originally a geologist ⚒ and I love to dig in and discover 🔬 how things wor
 🔥 Technolgies and Tools 🛠️
 
 
- Front End || Back End
------------- || -------------                           
-React||Express
-JavaScript||JavaScript
-JSX||Node.js
- HTML5||MongoDB
- CSS3 ||MySQL
- Bootstrap||Sequelize ORM
- Tailwind UI||X
- jQuery||Mongoose ORM
- Handlebars.js||X
+ Front End|Back End
+------------|-------------                           
+React|Express
+JavaScript|JavaScript
+JSX|Node.js
+HTML5|MongoDB
+CSS3|MySQL
+Bootstrap|Sequelize ORM
+jQuery|Mongoose ORM
+Tailwind UI|X
+Handlebars.js|X
  
  
  
