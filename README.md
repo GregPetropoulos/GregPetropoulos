@@ -18,18 +18,18 @@ Originally a geologist ⚒ and I love to dig in and discover 🔬 how things wor
 🔥 Technolgies and Tools 🛠️
 
 
- Front End | Back End
------------- | -------------                           
-JavaScript| JavaScript
-jQuery| Node.js
- HTML5| Express.js
- CSS3 | React
- Bootstrap| MySQL
- jQuery UI|MongoDB
- Server Side API|API
- Handlebars.js|Sequelize
- JSON| JSON
- Markdown|AJAX  
+ Front End || Back End
+------------ || -------------                           
+React||Express
+JavaScript||JavaScript
+JSX||Node.js
+ HTML5||MongoDB
+ CSS3 ||MySQL
+ Bootstrap||Sequelize ORM
+ Tailwind UI||X
+ jQuery||Mongoose ORM
+ Handlebars.js||X
+ 
  
  
 
@@ -45,8 +45,10 @@ jQuery| Node.js
 
 
 ✍ Blogs
+ - Coming soon
 
-- Check out my portfolio [Portfolio](https://gregpetropoulos.github.io/Greg-Portfolio/)
+Contact
+- Check out my [Portfolio](https://gregpetropoulos.github.io/Greg-Portfolio/)
 - 📫 How to reach me: <gregpetropoulos@yahoo.com>
 
 Have a great day!
