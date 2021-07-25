@@ -46,7 +46,7 @@ jQuery| Node.js
 
 ✍ Blogs
 
-
+- Check out my portfolio [Portfolio](https://gregpetropoulos.github.io/Greg-Portfolio/)
 - 📫 How to reach me: <gregpetropoulos@yahoo.com>
 
 Have a great day!
