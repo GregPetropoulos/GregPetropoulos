@@ -1,4 +1,4 @@
-[![gpheader](https://user-images.githubusercontent.com/68525155/114371971-0dbace00-9b4f-11eb-8854-9787e4eff355.jpg)](https://gregpetropoulos.github.io/portfolio/landing.html)
+[![gpheader](https://user-images.githubusercontent.com/68525155/114371971-0dbace00-9b4f-11eb-8854-9787e4eff355.jpg)](https://gregpetropoulos.github.io/Greg-Portfolio/)
 Photo by <a href="https://unsplash.com/@clarissemeyer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clarisse Meyer</a> on <a href="https://unsplash.com/s/photos/background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
