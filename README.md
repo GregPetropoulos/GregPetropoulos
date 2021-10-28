@@ -45,10 +45,10 @@ Handlebars.js|X
 
 
 ✍ Blogs
- - Coming soon
+ - [My medium blogs](https://gregpetropoulos.medium.com/)
 
 Contact
-- Check out my [Portfolio](https://gregpetropoulos.github.io/Greg-Portfolio/)
+- Check out my [Portfolio](https://gregpetropoulos.dev)
 - 📫 How to reach me: <gregpetropoulos@yahoo.com>
 
 Have a great day!
