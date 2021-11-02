@@ -1,8 +1,12 @@
-[![gpheader](https://user-images.githubusercontent.com/68525155/114371971-0dbace00-9b4f-11eb-8854-9787e4eff355.jpg)](https://gregpetropoulos.dev)
+[![Greg Petropoulos](https://user-images.githubusercontent.com/68525155/114371971-0dbace00-9b4f-11eb-8854-9787e4eff355.jpg)](https://gregpetropoulos.dev)
 Photo by <a href="https://unsplash.com/@clarissemeyer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clarisse Meyer</a> on <a href="https://unsplash.com/s/photos/background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
 # Light 💡 up the Darkness! 
+<!---GregPetropoulos--->
+<!---Greg Petropoulos--->
+<!---Greg--->
+
 
 
 Thanks for stopping by and checking out my Git Hub profile.
@@ -37,6 +41,7 @@ Handlebars.js|X
  -  Git
  -  GitHub 
  -  Heroku
+ -  Namecheap
 ****
 📈 Github Stats
 
@@ -45,7 +50,7 @@ Handlebars.js|X
 
 
 ✍ Blogs
- - [My medium blogs](https://gregpetropoulos.medium.com/)
+ - [My Medium Blog](https://gregpetropoulos.medium.com/)
 
 Contact
 - Check out my [Portfolio](https://gregpetropoulos.dev)
