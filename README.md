@@ -45,20 +45,25 @@ Handlebars.js|X
  -  Heroku
  -  Namecheap
 ****
-📈 Github Stats
+## 📈 Github Stats
 
 
 ![Gregs GitHub stats](https://github-readme-stats.vercel.app/api?username=gregpetropoulos&hide=stars&show_icons=true&theme=radical)
 
 
-✍ Blogs
- - [My Medium Blog](https://gregpetropoulos.medium.com/)
+## ✍ Blogs
+ ### - [My Medium Blog](https://gregpetropoulos.medium.com/)
 
-Contact
-- Check out my [Portfolio](https://gregpetropoulos.dev)
-- 📫 How to reach me: <gregpetropoulos@yahoo.com>
+## Contact
+### - [Portfolio](https://gregpetropoulos.dev)
 
-Have a great day!
+### - [Linkedin](https://www.linkedin.com/in/greg-petropoulos/)
+
+### - [Twitter](@GregoriosPetro1)
+
+### - 📫 How to reach me: <gregpetropoulos@yahoo.com>
+
+## Have a great day!
 
 <!--
 **GregPetropoulos/GregPetropoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
