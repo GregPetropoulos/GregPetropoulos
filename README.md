@@ -43,6 +43,7 @@ Handlebars.js|X
  -  Git
  -  GitHub 
  -  Heroku
+ -  Netlify
  -  Namecheap
 ****
 ## 📈 Github Stats
