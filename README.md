@@ -34,6 +34,7 @@ CSS3|MySQL
 Bootstrap|Sequelize ORM
 jQuery|Mongoose ORM
 Tailwind UI|X
+Materialize UI|X
 Handlebars.js|X
  
  
