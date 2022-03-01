@@ -15,9 +15,13 @@ My name is Greg Petropoulos and I am user focused MERN Full Stack 🥞 Developer
 
 Originally a geologist ⚒ and I love to dig in and discover 🔬 how things work and find the small ah-ha moments rewarding 🎉.
  
+ [Dev.to](https://dev.to/gregpetropoulos) 
  
- [Blog](https://gregpetropoulos.dev/blog)
- [Dev.to](https://dev.to/gregpetropoulos)
+
+[Blog](https://gregpetropoulos.dev/blog)
+ 
+ 
+
 
 *******
 
