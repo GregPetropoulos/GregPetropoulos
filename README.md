@@ -15,10 +15,13 @@ My name is Greg Petropoulos and I am user focused MERN Full Stack 🥞 Developer
 
 Originally a geologist ⚒ and I love to dig in and discover 🔬 how things work and find the small ah-ha moments rewarding 🎉.
  
- [Dev.to](https://dev.to/gregpetropoulos) 
+ ### - [Portfolio](https://gregpetropoulos.dev)
+ 
+ 
+ ### - [Dev.to](https://dev.to/gregpetropoulos) 
  
 
-[Blog](https://gregpetropoulos.dev/blog)
+### - [Blog](https://gregpetropoulos.dev/blog)
  
  
 
@@ -62,13 +65,16 @@ Handlebars.js|X
  ### - [My Medium Blog](https://gregpetropoulos.medium.com/)
 
 ## Contact
-### - [Portfolio](https://gregpetropoulos.dev)
+
+### - 📫 How to reach me: <gregpetropoulos@yahoo.com>
+
+## Social
 
 ### - [Linkedin](https://www.linkedin.com/in/greg-petropoulos/)
 
 ### - [Twitter](@GregoriosPetro1)
 
-### - 📫 How to reach me: <gregpetropoulos@yahoo.com>
+### - [Portfolio](https://gregpetropoulos.dev)
 
 ## Have a great day!
 
