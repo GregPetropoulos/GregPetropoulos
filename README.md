@@ -62,6 +62,7 @@ Handlebars.js|X
 
 
 ## ✍ Blogs
+### - [Blog](https://gregpetropoulos.dev/blog)
  ### - [My Medium Blog](https://gregpetropoulos.medium.com/)
 
 ## Contact
