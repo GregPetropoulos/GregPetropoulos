@@ -11,7 +11,7 @@ Photo by <a href="https://unsplash.com/@clarissemeyer?utm_source=unsplash&utm_me
 
 Thanks for stopping by and checking out my Git Hub profile.
 
-My name is Greg Petropoulos and I am user focused MERN Full Stack 🥞 Developer. 
+My name is Greg Petropoulos and I am user focused React Front End Developer. 
 
 Originally a geologist ⚒ and I love to dig in and discover 🔬 how things work and find the small ah-ha moments rewarding 🎉.
  
@@ -32,19 +32,28 @@ Originally a geologist ⚒ and I love to dig in and discover 🔬 how things wor
 🔥 Technolgies and Tools 🛠️
 
 
- Front End|Back End
-------------|-------------                           
-React|Express
-JavaScript|JavaScript
-JSX|Node.js
-HTML5|MongoDB
-CSS3|MySQL
-Bootstrap|Sequelize ORM
-jQuery|Mongoose ORM
-Tailwind UI|X
-Materialize UI|X
-Handlebars.js|X
- 
+Front End
+|------------|                          
+|JavaScript|
+|React|
+|JSX|
+|HTML5|
+|CSS3|
+|Bootstrap|
+|jQuery|
+|Tailwind UI|
+|Materialize UI|
+|Handlebars.js|
+
+Back End
+|-----|
+|Express|
+|JavaScript|
+|Node.js|
+|MongoDB|
+|MySQL|
+|Sequelize ORM|
+|Mongoose ORM|
  
  
 
@@ -53,6 +62,8 @@ Handlebars.js|X
  -  GitHub 
  -  Heroku
  -  Netlify
+ - Vercel
+ - Firebase
  -  Namecheap
 ****
 ## 📈 Github Stats
