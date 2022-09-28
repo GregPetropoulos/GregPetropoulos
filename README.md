@@ -11,14 +11,13 @@ Photo by <a href="https://unsplash.com/@clarissemeyer?utm_source=unsplash&utm_me
 
 Thanks for stopping by and checking out my Git Hub profile.
 
-My name is Greg Petropoulos and I am user focused React Front End Developer. 
-
-Originally a geologist ⚒ and I love to dig in and discover 🔬 how things work and find the small ah-ha moments rewarding 🎉.
+My name is Greg Petropoulos and I am user focused React/React-Native Front End Developer.
+I find discovery and learning the most rewarding and deploying production ready applications.
  
- ### - [Portfolio](https://gregpetropoulos.dev)
+### - [Portfolio](https://gregpetropoulos.dev)
  
  
- ### - [Dev.to](https://dev.to/gregpetropoulos) 
+### - [Dev.to](https://dev.to/gregpetropoulos) 
  
 
 ### - [Blog](https://gregpetropoulos.dev/blog)
@@ -36,6 +35,7 @@ Front End
 |------------|                          
 |JavaScript|
 |React|
+|React-Native|
 |JSX|
 |HTML5|
 |CSS3|
@@ -59,12 +59,14 @@ Back End
 
 🔍 Version Control & Deployment 🔍
  -  Git
- -  GitHub 
+ -  GitHub
+ -  Render
  -  Heroku
  -  Netlify
- - Vercel
- - Firebase
+ -  Vercel
+ -  Firebase
  -  Namecheap
+ -  Azure
 ****
 ## 📈 Github Stats
 
@@ -74,7 +76,7 @@ Back End
 
 ## ✍ Blogs
 ### - [Blog](https://gregpetropoulos.dev/blog)
- ### - [My Medium Blog](https://gregpetropoulos.medium.com/)
+### - [My Medium Blog](https://gregpetropoulos.medium.com/)
 
 ## Contact
 
