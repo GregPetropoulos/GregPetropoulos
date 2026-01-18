@@ -28,32 +28,37 @@ I find discovery and learning the most rewarding and deploying production ready 
 *******
 
 
-🔥 Technolgies and Tools 🛠️
+🔥 Mobile Developer Technologies and Tools 🛠️
+| Language/IDE's | Platform |
+|----------|---------|
+| React-Native | iOS / Android |
+| Expo | iOS / Android |
+| Java/Kotlin | Android |
+| Swift/SwiftUI| iOS |
+| TypeScript | |
+| Xcode | iOS |
+| Android Studio | Android |
+| IntelliJ | Android |
+| JetBrains | Android |
+| VS Code | iOS / Android |
 
+🔥 Web Developer Technologies and Tools 🛠️
 
-Front End
-|------------|                          
-|JavaScript|
-|React|
-|React-Native|
-|JSX|
-|HTML5|
-|CSS3|
+| Front End | Back End
+|------------ | ----- |
+|React| Node.js|
+|JSX / TSX| SQLite|
+|TypeScript|  Express|
+|JavaScript| Java|
+|Tanstack| Postgres|
+|HTML5| MongoDB|
+|CSS3|MySQL| Less/Sass|
+|Postman|
+|Tailwind UI|
 |Bootstrap|
 |jQuery|
-|Tailwind UI|
-|Materialize UI|
+| MUI |
 |Handlebars.js|
-
-Back End
-|-----|
-|Express|
-|JavaScript|
-|Node.js|
-|MongoDB|
-|MySQL|
-|Sequelize ORM|
-|Mongoose ORM|
  
  
 
