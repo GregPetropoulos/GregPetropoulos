@@ -73,10 +73,7 @@ I find discovery and learning the most rewarding and deploying production ready 
  -  Namecheap
  -  Azure
 ****
-## 📈 Github Stats
 
-
-![Gregs GitHub stats](https://github-readme-stats.vercel.app/api?username=gregpetropoulos&hide=stars&show_icons=true&theme=radical)
 
 
 ## ✍ Blogs
