@@ -83,10 +83,6 @@ I find discovery and learning the most rewarding and deploying production ready 
 ### - [Blog](https://gregpetropoulos.dev/blog)
 ### - [My Medium Blog](https://gregpetropoulos.medium.com/)
 
-## Contact
-
-### - 📫 How to reach me: <gregpetropoulos@yahoo.com>
-
 ## Social
 
 ### - [Linkedin](https://www.linkedin.com/in/greg-petropoulos/)
